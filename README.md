@@ -1,17 +1,19 @@
-<h2 align="left">Ⓘ_Ⓘ</h2>
+<h2 align="center">Ⓘ_Ⓘ</h2>
 
 ###
 
-<p align="left">https://j5mt.atabook.org<br>https://timlockwood.carrd.co</p>
+<p align="center">https://j5mt.atabook.org<br>https://timlockwood.carrd.co</p>
 
 ###
 
-[![YouTube](https://github.com/user-attachments/assets/2dd75d53-0144-461c-9423-b604424838a9)](https://www.youtube.com/watch?v=U7Lkc3hzE0w)
+<p align="center">
+  <img width="500" height="280" alt="yuuko" src="https://github.com/user-attachments/assets/05b03293-3553-47fc-91d5-dcd3d31736d7" />
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:yakyu-14?theme=miku&padding=6&scale=1&align=top&pixelated=1&darkmode=0"  />
+  <img src="https://count.getloli.com/@:yakyu-14?theme=miku&padding=6&scale=0.6&align=top&pixelated=1&darkmode=0"  />
 </div>
 
 ###
